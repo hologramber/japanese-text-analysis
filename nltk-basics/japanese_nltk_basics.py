@@ -1,4 +1,3 @@
-# example code for https://dendriticspine.github.io/japanese/2018/01/05/nltk-introduction
 import nltk
 from nltk.corpus import jeita
 from nltk.corpus import knbc
